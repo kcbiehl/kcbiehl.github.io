@@ -3,7 +3,7 @@ title: Kyle Biehl's Git Pages Website
 author: Kyle Biehl
 ---
 
-[Home](https://kcbiehl.github.io) | [Resume](cv/cv.md)  | [Publications](publications/pub.md) | Research | [Teaching](teaching/teach.md) | [Software](sofware/tools.md)
+[Home](https://kcbiehl.github.io) | [Resume](cv/cv.html)  | [Publications](publications/pub.html) | Research | [Teaching](teaching/teach.html) | [Software](sofware/tools.html)
 
 
 ## Research
